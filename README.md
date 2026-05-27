@@ -8,7 +8,7 @@
 
 ## My Individual Contribution
 
-While this is a collaborative team project (Team 9), my primary focus and core responsibility was leading **Phase 2: Feature Engineering & Analytics Pipeline**.
+While this is a collaborative team project, my primary focus and core responsibility was leading **Phase 2: Feature Engineering & Analytics Pipeline**.
 
 * **Pipeline Architecture:** Engineered and optimized the core `gold_features` Delta table within Databricks using **PySpark** to ingest cleaned multi-city Gold tables.
 * **Commercial Metrics:** Handled outlier removal via IQR method, computed city-level pricing benchmarks, modeled dynamic occupancy tracking (trailing 365 days), and engineered a composite **0–100 Weighted Competitive Score**.
