@@ -2,6 +2,7 @@
 
 **An end-to-end Big Data and Agentic AI system for Airbnb host intelligence**
 
+🏆 **Winner of the "Judges & Instructor's Favorite Award" @ Big Data & AI Trends Market 2026**
 📍 University of Minnesota · Carlson School of Management · MSBA Program · MSBA 6331 Big Data Analytics
 
 ---
