@@ -6,6 +6,16 @@
 
 ---
 
+## My Individual Contribution
+
+While this is a collaborative team project (Team 9), my primary focus and core responsibility was leading **Phase 2: Feature Engineering & Analytics Pipeline**.
+
+* **Pipeline Architecture:** Engineered and optimized the core `gold_features` Delta table within Databricks using **PySpark** to ingest cleaned multi-city Gold tables.
+* **Commercial Metrics:** Handled outlier removal via IQR method, computed city-level pricing benchmarks, modeled dynamic occupancy tracking (trailing 365 days), and engineered a composite **0–100 Weighted Competitive Score**.
+* **AI Integration:** Formulated the structured analytical feature layer that acts as the foundational data source grounding the downstream **Phase 4 LangGraph Multi-Agent AI system**.
+
+---
+
 ## Executive Summary
 
 InsideInsight transforms large-scale Airbnb data into actionable pricing and performance insights for hosts and property managers. Using the Inside Airbnb dataset — spanning listings, calendar availability, and guest reviews across multiple cities — the system delivers a scalable analytics framework that evaluates pricing strategy, occupancy performance, and customer sentiment.
@@ -70,8 +80,8 @@ flowchart TD
 │   └── data_quality_log.html           # Data validation report
 ├── flyer/
 │   └── flyer.pdf                       # Project summary flyer
-├── deck.pdf                            # Final presentation slide deck
-└── deck.pptx                           # Final presentation (editable)
+└──  deck.pdf                            # Final presentation slide deck
+
 ```
 
 ---
